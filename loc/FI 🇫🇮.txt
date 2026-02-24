@@ -1,1 +1,2 @@
-vless://03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4@83.147.255.191:448/?type=grpc&encryption=none&flow=&serviceName=xyz&sni=eh.vk.ru&fp=chrome&security=reality&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE&sid=#%3E%3E%40oneclickvpnkeys%3A%3AFI
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyM3NVcndSY1RCRUF2eExTNlZNNkFheTU3S1Fid3MxdXBEQXhyN0J0ZjRoWHU0Z2FVUVc0QlBiQ29takpqU3RNMkpxSkxEd1ZrdGVYTDhWMzNrOGVXa1pSNFVCOGludHo@107.181.151.147:43669#%3E%3E%40v2ray_configs_pool%3A%3AFI
+vless://7e6b66dc-6dbc-4d01-a13e-13d0be4f38ef@65.109.208.248:21235/?type=tcp&encryption=none&flow=#%3E%3E%40configshub2%3A%3AFI
